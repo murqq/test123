@@ -1,6 +1,6 @@
 # Kriventsov Dmitriy
 
-![Фото Kriventsov Dmitriy](https://ibb.co/vXN0WB6)
+![Фото Kriventsov Dmitriy](/img/1.jpg)
 
 Email: bomjnetop.dr@gmail.com | Phone: +7 (964) 979-57-66 | GitHub: https://github.com/murqq
 
